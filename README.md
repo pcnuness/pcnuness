@@ -40,7 +40,7 @@
 <a href="https://www.credly.com/badges/a6269d5a-86d5-4437-9280-34120bb62f2e/public_url" target="_blank" rel="noreferrer"> <img src=".images/sysops_associate.png" alt="SysOPS"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/3b625b8c-91af-4cc9-b83e-c9abfd935751/public_url" target="_blank" rel="noreferrer"> <img src=".images/devops_professional.png" alt="DevOps"width="120"height="120"/> <a>
 <a href="https://www.credly.com/badges/46564202-3c0b-4e51-91b6-d1d7917b1754/public_url" target="_blank" rel="noreferrer"> <img src=".images/networking_specialty.png" alt="Network"width="120"height="120"/> <a>
-<a href="https://www.credly.com/badges/0f659a7f-fb3a-4269-858a-07b315d27189/public_url" target="_blank" rel="noreferrer"> <img src=".images/security_spacialty.png" alt="Security"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/0f659a7f-fb3a-4269-858a-07b315d27189/public_url" target="_blank" rel="noreferrer"> <img src=".images/security_specialty.png" alt="Security"width="120"height="120"/> <a>
 </p>
 
 <br />
