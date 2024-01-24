@@ -20,10 +20,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paulocesarnunes](https://www.linkedin.com/in/paulocesarnunes)
 
-### Blogs posts
-<a href="https://pcnunes.com.br" target="_blank">Paulo César Nunes On Blog</a> 
+<br />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://dev.to/@pcnuness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://hashnode.com/@pcnuness" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/paulocesarnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulocesarnunes" height="30" width="40" /></a>
@@ -32,8 +31,31 @@
 <a href="https://pcnuness.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pcnuness" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br />
+
+<h3 align="left">🎖️ Badges</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/bbf28a1b-ade7-4932-876b-b0ec981a587c/public_url" target="_blank" rel="noreferrer"> <img src=".images/comptia.png" alt="CompTIA Linux"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/96c9866f-2e8d-4b73-869d-436572dcfea7/public_url" target="_blank" rel="noreferrer"> <img src=".images/solutions_architect_associate.png" alt="Soluctions"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/a6269d5a-86d5-4437-9280-34120bb62f2e/public_url" target="_blank" rel="noreferrer"> <img src=".images/sysops_associate.png" alt="SysOPS"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/3b625b8c-91af-4cc9-b83e-c9abfd935751/public_url" target="_blank" rel="noreferrer"> <img src=".images/devops_professional.png" alt="DevOps"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/46564202-3c0b-4e51-91b6-d1d7917b1754/public_url" target="_blank" rel="noreferrer"> <img src=".images/networking_specialty.png" alt="Network"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/0f659a7f-fb3a-4269-858a-07b315d27189/public_url" target="_blank" rel="noreferrer"> <img src=".images/security_spacialty.png" alt="Security"width="120"height="120"/> <a>
+</p>
+
+<br />
+
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a> <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a> <a href="https://www.apache.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.prometheus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://www.vagrant.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<br />
+
+<h3 align="left">Blogs posts</h3>
+<p align="left">
+<a href="https://pcnunes.com.br" target="_blank">Paulo César Nunes On Blog </a>
+</p>
+
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcnuness&show_icons=true&locale=en&layout=compact" alt="pcnuness" /></p>
 
